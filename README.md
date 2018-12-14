@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-
+Testing exampels
 ## Purpose
 
 Sample website with plenty of files for demos
@@ -13,6 +13,7 @@ text goes here
 ## Second Test
 
 more text
+BAANANANNNANNA
 
 ### Sub second test
 
