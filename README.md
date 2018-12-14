@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 ## Test section
 
 text goes here
+Testing stuff, from myfeat2
 
 ## Second Test
 
